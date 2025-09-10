@@ -1,9 +1,2 @@
 # Python_Course_Daywise_Learning
 
-mkdir -p Day01_Welcome Day02_Enhance_Experience Day03_Project_Description \
-Day04_Python_Basics_Install Day05_Variables_Numbers_Strings Day06_Lists_If_For \
-Day07_Functions_Dicts_Tuples_Files Day08_Classes_Exception Day09_NumPy \
-Day10_EDA_Pandas_Matplotlib_Seaborn Day11_Project1_EDA Day12_Comprehensions_Sets \
-Day13_JSON_Generators_Decorators Day14_APIs Day15_Logging_Pytest_Pydantic_DB \
-Day16_Project2_Expense_Tracker Day17_Career_NextSteps Day18_Final_Quiz \
-Day19_Bonus_Medical_RX Day20_Bonus_Medical_Patient Day21_Bonus_FastAPI_Server
