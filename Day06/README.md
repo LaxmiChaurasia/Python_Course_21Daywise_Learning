@@ -497,18 +497,5 @@ print(result)  # [3,1,2,4]
   * Useful constructs: `enumerate`, `zip`, `break`, `continue`, `else`
   * Prefer `for` loops for stepwise calculations (clear and testable)
 
-### Recommended Practice (daily)
 
-* 3 small `for` loop exercises (sum, counts, filter)
-* 1 mini project: process a `.csv` (read lines and summarize) or solve the Mr. X practice
-* Keep solutions in a `Day06/` folder: `README.md`, `examples.py`, `exercises.py`
-
----
-
-If you want, I can:
-
-* Create a ready-to-paste **`Day06/README.md`** file with this content, OR
-* Generate the code files (`examples.py`, `exercises.py`) for you to download/run in Jupyter/PyCharm.
-
-Which would you like next?
 
