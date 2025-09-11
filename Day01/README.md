@@ -1,5 +1,6 @@
 # Day01: Welcome to the Python Experience
 
+## Topic Covered
 * 1.1: Course Introduction
 * 1.2: What Benefits You Get By Learning Python?
 * 1.3: Who can Enroll In This Course? Any Prerequisites?
@@ -120,6 +121,7 @@ This course typically covers:
 ✔ Use Python in Data Science, Web, or Automation fields
 
 ---
+
 
 
 
