@@ -112,11 +112,15 @@ This course typically covers:
 ---
 
 ✨ By the end of the course, you’ll be able to:
+
 ✔ Write Python programs confidently
+
 ✔ Build real-world projects
+
 ✔ Use Python in Data Science, Web, or Automation fields
 
 ---
+
 
 
 
