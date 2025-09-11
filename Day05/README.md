@@ -1,10 +1,12 @@
 # Day05: Python Basics — Variables, Numbers and Strings 🔢🔤
 
-## ?? Topics Covered
-- Overview of the lesson
-- Example Python code
-- Exercises and quizzes
-
+## Topics Covered
+- 5.1: Variables 📦
+- 5.2: Numbers 🔢
+- 5.3: Strings 🔤
+- 5.4: Quiz — Variables, Numbers and Strings ❓
+- 5.5: Mr. Beginner & Mr. Expert 🧑‍💻👨‍🏫
+- 5.6: Exercise — Variables, Numbers and Strings 📝
 
 In this section, we explore the **building blocks of Python programming** — Variables, Numbers, and Strings.  
 You’ll learn how to store values, work with numeric data, and manipulate text.  
@@ -150,6 +152,7 @@ print(s[0] + s[4])  # DS
 ---
 
 ✅ By completing Day05, you’ve built a **strong foundation** in Variables, Numbers, and Strings. 🚀
+
 
 
 
