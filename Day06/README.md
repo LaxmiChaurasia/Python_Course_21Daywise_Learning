@@ -1,7 +1,7 @@
 # Day06: Python Basics — Lists, If Condition & For Loop ✅
 
 
-## ?? Topics Covered
+## Topics Covered
 - 6.1 Lists 📋 — Stepwise Guide
 - 6.2 Install PyCharm 🛠️ — Stepwise (Community Edition)
 - 6.3 If Condition 🧭 — Stepwise
@@ -511,3 +511,4 @@ If you want, I can:
 * Generate the code files (`examples.py`, `exercises.py`) for you to download/run in Jupyter/PyCharm.
 
 Which would you like next?
+
