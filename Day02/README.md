@@ -1,6 +1,6 @@
 # Day02: Enhance Your Learning Experience 🚀  
 
-## ?? Topics Covered
+## Topics Covered
 - 2.1: Importance of Hands-On PracticeOverview of the lesson
 - 2.2: Using Jupyter Notebooks & IDEs
 - 2.3: Engage in Mini-Projects
@@ -88,3 +88,4 @@ Enhancing your learning means:
 ✔️ Using resources wisely  
 
 > With these strategies, you’ll not only **learn Python** but also **master it with confidence!** 🚀
+
