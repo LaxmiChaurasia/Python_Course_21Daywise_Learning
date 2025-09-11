@@ -8,8 +8,6 @@
 - 4.5: Download Code & Get Help ❓
   
 
-````markdown
-
 This section sets up the foundation for your Python learning journey.  
 You’ll understand **why Python matters, how to install it on any OS, and where to get help**.  
 
@@ -34,7 +32,7 @@ You’ll understand **why Python matters, how to install it on any OS, and where
 3. Verify:  
    ```bash
    python --version
-````
+
 
 4. Optional: Install **Anaconda** for Data Science
 
@@ -123,9 +121,3 @@ print("Hello, Python! 🎉")
 
 ✅ By the end of Day04, Python will be **installed and ready to use** on your system.
 
-```
-
----
-
-Would you like me to also create a **Day01 → Day30 GitHub repository folder structure** (with README.md in each folder), so you can just copy-paste and start building your course repo?
-```
