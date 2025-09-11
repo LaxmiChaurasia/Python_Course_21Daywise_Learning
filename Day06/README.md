@@ -9,7 +9,7 @@
 - 6.5 Quiz: Lists, If Condition and For Loop ❓
 - 6.6 Mr. X Found Something Interesting to Practice — Story + Task ✨
 - 6.7 Exercises — With Stepwise Solutions
-- 6.8 Chapter Summary ✔️
+- 6.8 Thumbnail ✔️
 
 
 This lesson covers three essential building blocks of Python: **lists** (flexible containers), **if conditions** (decision making), and **for loops** (repetition).
@@ -477,7 +477,7 @@ print(result)  # [3,1,2,4]
 
 ---
 
-## 6.8 Chapter Summary ✔️
+## 6.8 Thumbnail ✔️
 
 * **Lists**
 
@@ -496,6 +496,7 @@ print(result)  # [3,1,2,4]
   * Iterate sequences (`list`, `range`, `dict.items()`, `string`)
   * Useful constructs: `enumerate`, `zip`, `break`, `continue`, `else`
   * Prefer `for` loops for stepwise calculations (clear and testable)
+
 
 
 
