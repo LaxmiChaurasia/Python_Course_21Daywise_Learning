@@ -1,7 +1,7 @@
 # 📊 Day10: Python Basics — Exploratory Data Analysis (EDA) Using Pandas, Matplotlib & Seaborn
 
 ## Topics Covered
-### Topics Covered
+
 - 10.1: Pandas Introduction and Installation 🐼
 - 10.2: DataFrame Basics 📑
 - 10.3: Read & Write Excel/CSV Files 📂
@@ -174,5 +174,6 @@ plt.show()
 ---
 
 Would you like me to also create a **mini-project for this chapter (like analyzing sales data step-by-step)** so your GitHub repo has both **theory + real-life project**?
+
 
 
