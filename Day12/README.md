@@ -12,8 +12,6 @@
 - 12.8: Code Debugging Using PyCharm 🐞
 - 12.9: Chapter Summary 📘
 
----
-
 ## 12.1: Introduction
 
 * Advanced Python topics help you **write concise, readable, and efficient code**.
@@ -24,7 +22,7 @@
 
 ## 12.2: Set and Frozenset
 
--Set: mutable collection, no duplicate values.
+* **Set**: mutable collection, no duplicate values.
 
 ```python
 fruits = {"apple", "banana", "mango"}
@@ -33,7 +31,7 @@ fruits.remove("banana")
 print(fruits)
 ```
 
--Frozenset: immutable version of set.
+* **Frozenset**: immutable version of set.
 
 ```python
 frozen_fruits = frozenset(["apple", "banana", "mango"])
@@ -87,9 +85,9 @@ print(result)
 
 ### ✅ Answers:
 
--Q1:** `{x**2 for x in range(1,6)}`
--Q2:** `set` is mutable; `frozenset` is immutable.
--Q3:** `{4, 8}`
+* **Q1:** `{x**2 for x in range(1,6)}`
+* **Q2:** `set` is mutable; `frozenset` is immutable.
+* **Q3:** `{4, 8}`
 
 ---
 
