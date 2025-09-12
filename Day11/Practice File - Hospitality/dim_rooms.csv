@@ -1,0 +1,6 @@
+room_id,room_type,price_per_night
+1,Single,1500
+2,Double,2500
+3,Suite,4000
+4,Deluxe,6000
+5,Presidential,12000
