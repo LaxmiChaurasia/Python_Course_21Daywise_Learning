@@ -22,7 +22,7 @@ You’ll understand **why Python matters, how to install it on any OS, and where
   - Easy syntax  
   - Large community support  
   - Essential for **Data Science, AI, Web Development, Automation**  
-- Lesson: If Peter can do it, **anyone can start Python** 🚀  
+- Lesson: If Mr. Beginner can do it, **anyone can start Python** 🚀  
 
 ---
 
@@ -120,4 +120,5 @@ print("Hello, Python! 🎉")
 ---
 
 ✅ By the end of Day04, Python will be **installed and ready to use** on your system.
+
 
