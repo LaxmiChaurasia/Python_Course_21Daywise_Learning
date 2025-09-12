@@ -171,5 +171,3 @@ print(merged.groupby("country")["customer_id"].count().sort_values(ascending=Fal
 🚀 This project shows how **EDA helps businesses** make better decisions using data.
 
 ---
-
-Would you like me to also design a **mini-dashboard plan (with Pandas + Matplotlib/Seaborn)** for visualizing these hospitality insights in your GitHub repo?
