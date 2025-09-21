@@ -1,7 +1,7 @@
 # Day13: ⚡ Python Advanced: JSON, Generators & Decorators
 
 
-## ?? Topics Covered
+## Topics Covered
 - 13.1 📦 Working with JSON
 - 13.2 🔄 Generators and Iterators
 - 13.3 🎨 Decorators
@@ -107,3 +107,4 @@ greet()
 ---
 
 Would you like me to **also generate the `.ipynb` Jupyter Notebook file** (with explanations + exercises) for direct upload to GitHub?
+
