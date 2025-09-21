@@ -21,6 +21,64 @@ This chapter covers three powerful Python concepts: **JSON handling, Generators,
 
 **JSON (JavaScript Object Notation)** is a common format for storing and exchanging data (like API responses).
 
+
+
+
+
+
+Perfect 👍
+
+Here’s what I’ll prepare for you:
+
+📘 **Chapter 13 Jupyter Notebook (`Python_Advanced_JSON_Generators_Decorators.ipynb`)**
+It will include:
+
+### 📑 Structure
+
+1. **Title + Introduction**
+
+   * Short intro to JSON, Generators, and Decorators with markdown formatting.
+
+2. **Section 13.1 – Working with JSON**
+
+   * Code cells with `json.dumps()` and `json.loads()` examples.
+   * Small exercise: Convert a Python dict into JSON and back.
+
+3. **Section 13.2 – Generators and Iterators**
+
+   * Code cells for creating iterators using `iter()` and `next()`.
+   * Generator function examples with `yield`.
+   * Exercise: Write a generator for Fibonacci numbers.
+
+4. **Section 13.3 – Decorators**
+
+   * Example: Function wrapper with `@decorator`.
+   * Example: Decorator with arguments.
+   * Exercise: Create a decorator that calculates execution time.
+
+5. **Section 13.4 – Quiz**
+
+   * Multiple-choice questions (as Markdown).
+
+6. **Section 13.5 – Exercises**
+
+   * Practice tasks with hints.
+
+7. **Section 13.6 – Chapter Summary**
+
+   * Easy bullet points summarizing the concepts.
+
+---
+
+⚡ This way, learners can **run and practice directly in Jupyter Notebook** from your GitHub repo.
+
+Do you want me to:
+
+1. Generate the **actual `.ipynb` notebook file** with all code + exercises (so you can upload it directly),
+   👉 or
+2. Just give you the **code + markdown cells** here (and you paste them into Jupyter)?
+
+
 ### ✅ Example: Converting Python ↔ JSON
 
 ```python
@@ -105,3 +163,4 @@ greet()
 ✔ **Decorators** → Add extra functionality without modifying code
 
 ---
+
