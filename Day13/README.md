@@ -105,6 +105,3 @@ greet()
 ✔ **Decorators** → Add extra functionality without modifying code
 
 ---
-
-Would you like me to **also generate the `.ipynb` Jupyter Notebook file** (with explanations + exercises) for direct upload to GitHub?
-
