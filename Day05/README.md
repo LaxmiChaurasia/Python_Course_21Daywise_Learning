@@ -8,6 +8,11 @@
 - 5.5: Mr. Beginner & Mr. Expert 🧑‍💻👨‍🏫
 - 5.6: Exercise — Variables, Numbers and Strings 📝
 - 5.7: Thumbnail 📘
+  
+  ## ALSO
+  
+# 🔑 Rules of Python Variables – Basics
+
 
 In this section, we explore the **building blocks of Python programming** — Variables, Numbers, and Strings.  
 You’ll learn how to store values, work with numeric data, and manipulate text.  
@@ -165,9 +170,73 @@ print(s[0] + s[4])  # DS
 ✅ By completing Day05, you’ve built a **strong foundation** in Variables, Numbers, and Strings. 🚀
 
 
+---
 
+# 🔑 Rules of Python Variables – Basics
 
+In Python, **variables are like containers** that store data (numbers, text, lists, etc.). Think of them as labels you stick on a box so you know what’s inside.
 
+---
 
+## 1️⃣ Naming Rules
 
+✅ **Start with a letter or underscore**
 
+```python
+name = "Alice"   # Valid
+_age = 30        # Valid
+# 1st_name = "Bob"  ❌ Invalid (starts with number)
+```
+
+✅ **Use only letters, numbers, and underscores**
+
+```python
+user_name = "Charlie"   # Valid
+# user-name = "David"   ❌ Invalid (hyphen not allowed)
+```
+
+✅ **Case-sensitive**
+
+```python
+age = 25
+Age = 35
+
+print(age)  # 25
+print(Age)  # 35
+```
+
+❌ **Don’t use Python keywords** (`if`, `else`, `for`, etc.)
+
+```python
+# if = 10  # Invalid - 'if' is reserved
+```
+
+---
+
+## 2️⃣ Assignment
+
+Use the **`=`** operator to assign values:
+
+```python
+score = 100
+message = "Hello, Python!"
+```
+
+---
+
+## 3️⃣ Dynamic Typing
+
+Python decides the type automatically — no need to declare it!
+
+```python
+my_variable = 5        # Integer
+my_variable = "text"   # Now a string (valid!)
+```
+
+---
+
+## 💡 Pro Tip
+
+👉 Always use **descriptive names** (e.g., `total_price` instead of `tp`) for better readability.
+
+---
