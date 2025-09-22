@@ -12,27 +12,6 @@
 - 8.9: Chapter Summary 🏆
 
 
----
-
-Got it 👍 I’ll break down **Chapter 8: Python Basics — Classes and Exception Handling** step by step in **easy and simple language**, formatted neatly for your **GitHub README repository**.
-
-Here’s the detailed explanation:
-
----
-
-# Day08: Python Basics — Classes and Exception Handling 🏗⚠️
-
-## Topics Covered
-
-* 8.1: Classes and Objects 🧑‍💻
-* 8.2: Operator Overloading ➕
-* 8.3: Inheritance 👨‍👩‍👧
-* 8.4: Exception Handling ⚠️
-* 8.5: `__main__` Function 🏁
-* 8.6: Quiz — Classes & Exception Handling ❓
-* 8.7: Using Python in Real-Time Problem 🌍
-* 8.8: Exercise — Classes & Exception Handling 📝
-* 8.9: Chapter Summary (Thumbnail 📘)
 
 ---
 
@@ -71,8 +50,165 @@ a = Number(10)
 b = Number(20)
 print(a + b)   # 30
 ```
+---
+# 🐍 Python Operators — Complete Guide
 
-✅ We changed how the `+` operator works for `Number` objects.
+Operators in Python are **symbols** or **keywords** that perform operations on values or variables.
+Just like `+`, `-`, `×`, `÷` in Maths, Python uses operators for **calculations, comparisons, assignments, logic, and more**.
+
+---
+
+## 🔑 Types of Operators in Python
+
+1️⃣ Arithmetic Operators
+2️⃣ Assignment Operators
+3️⃣ Comparison Operators
+4️⃣ Logical Operators
+5️⃣ Identity Operators
+6️⃣ Membership Operators
+7️⃣ Bitwise Operators (Advanced)
+
+---
+
+## 1️⃣ Arithmetic Operators ➕➖✖️➗
+
+👉 Used for **Math operations** (addition, subtraction, etc.)
+
+| Operator | Meaning        | Example  | Output |
+| -------- | -------------- | -------- | ------ |
+| `+`      | Addition       | `5 + 3`  | `8`    |
+| `-`      | Subtraction    | `10 - 4` | `6`    |
+| `*`      | Multiplication | `4 * 2`  | `8`    |
+| `/`      | Division       | `8 / 2`  | `4.0`  |
+| `//`     | Floor Division | `7 // 2` | `3`    |
+| `%`      | Modulus        | `7 % 2`  | `1`    |
+| `**`     | Exponent       | `2 ** 3` | `8`    |
+
+✅ Example:
+
+```python
+a = 10
+b = 3
+print(a + b)  # 13
+print(a ** b) # 1000
+```
+
+---
+
+## 2️⃣ Assignment Operators 🖊️
+
+👉 Used to **assign values** to variables
+
+| Operator | Example  | Same As      |
+| -------- | -------- | ------------ |
+| `=`      | `x = 5`  | Assign value |
+| `+=`     | `x += 2` | `x = x + 2`  |
+| `-=`     | `x -= 3` | `x = x - 3`  |
+| `*=`     | `x *= 2` | `x = x * 2`  |
+| `/=`     | `x /= 2` | `x = x / 2`  |
+
+✅ Example:
+
+```python
+x = 5
+x += 3   # same as x = x + 3
+print(x) # 8
+```
+
+---
+
+## 3️⃣ Comparison Operators ⚖️
+
+👉 Always return **True** or **False**
+
+| Operator | Meaning       | Example  | Result |
+| -------- | ------------- | -------- | ------ |
+| `==`     | Equal to      | `5 == 5` | True   |
+| `!=`     | Not equal to  | `5 != 3` | True   |
+| `>`      | Greater than  | `6 > 3`  | True   |
+| `<`      | Less than     | `4 < 2`  | False  |
+| `>=`     | Greater/Equal | `5 >= 5` | True   |
+| `<=`     | Less/Equal    | `3 <= 2` | False  |
+
+---
+
+## 4️⃣ Logical Operators 🔗
+
+👉 Used to **combine conditions**
+
+| Operator | Meaning                 | Example             | Result |
+| -------- | ----------------------- | ------------------- | ------ |
+| `and`    | True if both are True   | `(5 > 3 and 4 > 2)` | True   |
+| `or`     | True if any one is True | `(5 < 3 or 4 > 2)`  | True   |
+| `not`    | Opposite of condition   | `not(5 > 3)`        | False  |
+
+---
+
+## 5️⃣ Identity Operators 🆔
+
+👉 Check if two variables refer to the **same object**
+
+| Operator | Example      | Meaning                         |
+| -------- | ------------ | ------------------------------- |
+| `is`     | `x is y`     | True if x and y are same object |
+| `is not` | `x is not y` | True if x and y are not same    |
+
+---
+
+## 6️⃣ Membership Operators 📖
+
+👉 Check if a value exists inside another (list, string, etc.)
+
+| Operator | Example              | Result |
+| -------- | -------------------- | ------ |
+| `in`     | `"a" in "apple"`     | True   |
+| `not in` | `"x" not in "apple"` | True   |
+
+---
+
+## 7️⃣ Bitwise Operators ⚙️ (Advanced)
+
+👉 Used for **binary operations** (works on 0s and 1s).
+
+| Operator | Meaning     |    |
+| -------- | ----------- | -- |
+| `&`      | AND         |    |
+| \`       | \`          | OR |
+| `^`      | XOR         |    |
+| `~`      | NOT         |    |
+| `<<`     | Left Shift  |    |
+| `>>`     | Right Shift |    |
+
+---
+
+## 🎓 Real Life Example
+
+```python
+price = 100
+discount = 20
+final_price = price - discount
+print("Final Price is", final_price)
+```
+
+✅ Output:
+
+```
+Final Price is 80
+```
+
+---
+
+## 📘 Summary
+
+* **Arithmetic** → `+ - * / // % **`
+* **Assignment** → `= += -= *= ...`
+* **Comparison** → `== != > < >= <=`
+* **Logical** → `and or not`
+* **Identity** → `is, is not`
+* **Membership** → `in, not in`
+* **Bitwise** → `& | ^ ~ << >>`
+
+👉 By mastering operators, you unlock the **foundation of Python programming** 🚀
 
 ---
 
@@ -387,6 +523,7 @@ if __name__ == "__main__":
 ```
 
 ---
+
 
 
 
